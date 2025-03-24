@@ -2,7 +2,7 @@
 
 ## Instructions
 
-
+[Sharp image editing software](https://sharp.pixelplumbing.com)
 
 ### Start server
 
@@ -13,7 +13,10 @@ npm install
 npm run dev
 ```
 
-### Crop images
+### Download Crop images
+
+> Data file must be named ./public/data/products.json and contain a "Product-title" field and an "Product-image-url".
+> Images will be saved in ./public/images
 
 ```bash
 npm install
