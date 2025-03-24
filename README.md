@@ -29,3 +29,9 @@ npm run crop
 [Javascript links](http://localhost:3000/auto.html)  
 [Directory listing of images](http://localhost:3000/images/)  
 [Responsive image](http://localhost:3000/responsive.html)  
+
+
+<img src="tamagochi-1.png" width="100">
+<img src="tamagochi-2.png" width="100">
+<img src="tamagochi-3.png" width="100">
+<img src="tamagochi-4.png" width="100">
