@@ -9,13 +9,31 @@
 <div class="gallery">
     <div class="item" data-name="Finkrossade_tomater">
         <picture>
-            <source media="(min-width: 1200px)" srcset="/images/Finkrossade_tomater_image_large.jpg">
-            <source media="(min-width: 768px)" srcset="/images/Finkrossade_tomater_image_medium.jpg">
-            <source media="(min-width: 480px)" srcset="/images/Finkrossade_tomater_image_small.jpg">
-            <img src="/images/Finkrossade_tomater_image_tiny.jpg" alt="Finkrossade tomater">
+            <source media="(min-width: 1440px)" srcset="/images/Finkrossade_tomater_image_large.jpg">
+            <source media="(min-width: 1024px)" srcset="/images/Finkrossade_tomater_image_medium.jpg">
+            <source media="(min-width: 768px)" srcset="/images/Finkrossade_tomater_image_small.jpg">
+            <source media="(max-width: 767px)" srcset="/images/Finkrossade_tomater_image_tiny.jpg">
+            <img src="/images/missing_product.jpg" alt="Finkrossade tomater">
         </picture>
         <p>Finkrossade tomater</p>
+        <p class="used-src"></p>
     </div>
 </div>
+
+<script>
+    function updateUsedSrc() {
+        document.querySelectorAll(".item").forEach(item => {
+            const img = item.querySelector("img");
+            const display = item.querySelector(".used-src");
+            if (img && display) {
+                display.textContent = `Using: ${img.currentSrc.split('/').pop()}`;
+            }
+        });
+    }
+
+    window.addEventListener("load", updateUsedSrc);
+    window.addEventListener("resize", updateUsedSrc); // update on screen size change
+</script>
+
 </body>
 </html>
