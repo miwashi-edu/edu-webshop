@@ -1,0 +1,22 @@
+{
+  "name": "webshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/service.js",
+    "dev": "node --watch ./src/service.js",
+    "crop": "node ./src/process_images.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "install": "^0.13.0",
+    "npm": "^11.2.0",
+    "serve-index": "^1.9.1",
+    "sharp": "^0.33.5"
+  }
+}

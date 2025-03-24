@@ -1,0 +1,102 @@
+[
+  {
+    "Category": "Skafferi",
+    "Product-title": "Finkrossade tomater",
+    "Product-description": "Grekiska solmogna finkrossade tomater med hög sötma och tydlig syra som gör att de påminner mer om färska. Perfekt sötma och syra i såsen, soppan, grytan och gratängen.",
+    "Product-weight": "400 g",
+    "Product-producer": "Fontana",
+    "Product-price": "8,00 kr",
+    "Product-image-url": "https://productimages.motatos.com/MS250161/ms250161_1-92537e81-098c-407e-9716-955925b959de.png?tr=w-2034,h-2034,c-at_max,bg-ffffff",
+    "Matsmart-url": "https://www.matsmart.se/produkt/fontana-finkrossade-tomater-400g"
+  },
+  {
+    "Category": "Skafferi",
+    "Product-title": "Röda linser",
+    "Product-description": "Röda linser från GoGreen. Helt vanlig produkt - inte räddad, bara en vanlig vara med låg risk att svinnas.",
+    "Product-weight": "230 g",
+    "Product-producer": "GoGreen",
+    "Product-price": "13,00 kr",
+    "Product-image-url": "https://productimages.motatos.com/MS119195/799228-8481ec73-b368-499d-bc6d-a91f6b2cd424.png?tr=w-2034,h-2034,c-at_max,bg-ffffff",
+    "Matsmart-url": "https://www.matsmart.se/produkt/gogreen-roda-linser"
+  },
+  {
+    "Category": "Skafferi",
+    "Product-title": "Spaghetti",
+    "Product-description": "Ett paket spagetti pasta på durumvete.",
+    "Product-weight": "400 g",
+    "Product-producer": "Fiorelli",
+    "Product-price": "13,00 kr",
+    "Product-image-url": "https://productimages.motatos.com/MS235699/789729-bed8ee41-6fc0-487b-86c3-c14ace7604af.png?tr=w-2034,h-2034,c-at_max,bg-ffffff",
+    "Matsmart-url": "https://www.matsmart.se/produkt/fiorelli-spaghetti-1"
+  },
+  {
+    "Category": "Skafferi",
+    "Product-title": "Krossade Tomater 8-pack",
+    "Product-description": "Amore mio, dessa krossade tomater kan vara din nya bästis i köket.",
+    "Product-weight": "8 x 390 g",
+    "Product-producer": "Motatos",
+    "Product-price": "89,00 kr",
+    "Product-image-url": "https://productimages.motatos.com/MS206175/ms206175-8-pack-chopped-tomatoes-390g-cc0388fb-02d0-4d08-8c2f-6895023dd30c.jpg?tr=w-2034,h-2034,c-at_max,bg-ffffff",
+    "Matsmart-url": "https://www.matsmart.se/produkt/motatos-krossade-tomater-8-pack-0"
+  },
+  {
+    "Category": "Skafferi",
+    "Product-title": "Havregryn",
+    "Product-description": "Havre är fullproppat med näringsämnen",
+    "Product-weight": "750 g",
+    "Product-producer": "Motatos",
+    "Product-price": "15,00 kr",
+    "Product-image-url": "https://productimages.motatos.com/MS235187/ms235187_1234-2a5862b9-4ff9-4b3d-950e-7cb987366372.png?tr=w-2034,h-2034,c-at_max,bg-ffffff",
+    "Matsmart-url": "https://www.matsmart.se/produkt/motatos-havregryn"
+  },
+  {
+    "Category": "Drycker",
+    "Product-title": "Coca-Cola 30-pack",
+    "Product-description": "Klassiska favoriten Coca-Cola. 30-pack med 33 cl burkar.",
+    "Product-weight": "30 x 330ml",
+    "Product-producer": "Coca-Cola",
+    "Product-price": "199,00 kr",
+    "Product-image-url": "https://productimages.motatos.com/MS212591/ms212591-86034387-649d-40ce-85d6-446093c9e74f.jpg?tr=w-2034,h-2034,c-at_max,bg-ffffff",
+    "Matsmart-url": "https://www.matsmart.se/produkt/coca-cola-coca-cola-30-pack"
+  },
+  {
+    "Category": "Drycker",
+    "Product-title": "Trocadero Zero 20-pack",
+    "Product-description": "Trocadero, som lanserades i Sverige i början av 50-talet, är en läsk med en alldeles egen smak och karaktär.",
+    "Product-weight": "20 x 33 cl",
+    "Product-producer": "Trocadero",
+    "Product-price": "119,00 kr",
+    "Product-image-url": "https://productimages.motatos.com/MS209600/ms209600_1-773129b1-f05d-4fed-9aea-4fe8947cc280.png?tr=w-2034,h-2034,c-at_max,bg-ffffff",
+    "Matsmart-url": "https://www.matsmart.se/produkt/trocadero-trocadero-zero-20-pack"
+  },
+  {
+    "Category": "Drycker",
+    "Product-title": "Ramlösa Granatäpple 20-Pack",
+    "Product-description": "Ramlösa är ett naturligt mineralvatten som njutits sedan 1707 och tappas direkt vid källan i Ramlösa hälsobrunn.",
+    "Product-weight": "20 x 33 cl",
+    "Product-producer": "Ramlösa",
+    "Product-price": "119,00 kr",
+    "Product-image-url": "https://productimages.motatos.com/MS205525/ms205525_1-91abbfb8-9a48-4f69-9524-b5d0950656ed.png?tr=w-2034,h-2034,c-at_max,bg-ffffff",
+    "Matsmart-url": "https://www.matsmart.se/produkt/ramlosa-ramlosa-granatapple-20-pack"
+  },
+  {
+    "Category": "Drycker",
+    "Product-title": "Pepsi Max",
+    "Product-description": "Pepsi Max, en sockerfri läskedryck med smak av Cola. Sätter guldkant på vardagen.",
+    "Product-weight": "33 cl",
+    "Product-producer": "Pepsi",
+    "Product-price": "9,00 kr",
+    "Product-image-url": "https://productimages.motatos.com/MS211023/ms211023_1-300e8c92-583e-4c56-85dd-f62913610481.png?tr=w-2034,h-2034,c-at_max,bg-ffffff",
+    "Matsmart-url": "https://www.matsmart.se/produkt/pepsi-pepsi-max"
+  },
+  {
+    "Category": "Drycker",
+    "Product-title": "Fruktdryck Päron 27-pack",
+    "Product-description": "Smarrig fruktdryck med päronsmak. Helt utan tillsatt socker. Det är alltid bra att ha med en Smakis på utflykten!",
+    "Product-weight": "27 x 200 ml",
+    "Product-producer": "Smakis",
+    "Product-price": "169,00 kr",
+    "Product-image-url": "https://productimages.motatos.com/MS100367/hl_smakis_paron_ny.jpg?tr=w-2034,h-2034,c-at_max,bg-ffffff",
+    "Matsmart-url": "https://www.matsmart.se/produkt/smakis-fruktdryck-paron-27-pack"
+  }
+]
